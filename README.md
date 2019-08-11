@@ -16,3 +16,5 @@ This application uses api calls to:
 
 # About
 This project was made to showcase the use of Node as a back-end library. This app utalizes api calls to 3rd parties to serve data from a custom made API end point to the front end.
+
+This app was made as part of the Udemy course "The Complete Node.js Developer Course."
