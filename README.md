@@ -1,5 +1,4 @@
-# weather-app
-Nodejs app
+# Weather-App
 
 # How to run
 visit the app @ http://szaf-weather-app.herokuapp.com/
@@ -9,12 +8,12 @@ visit the app @ http://szaf-weather-app.herokuapp.com/
 
 If the location that is displayed is not what you intended, try searching again using a more specific search term. E.g. "Boston, MA" vs. "Boston"
 
-# 3rd party API
+## 3rd party API
 This application uses api calls to:
 * darksky.net for waether data
 * mapbox.com for location data
 
-# About
-This project was made to showcase the use of Node as a back-end library. This app utalizes api calls to 3rd parties to serve data from a custom made API end point to the front end.
+## About
+This project was made to showcase the use of Node.js as a back-end library. This app utalizes api calls to 3rd parties to serve data from a custom made API end point to the front end.
 
 This app was made as part of the Udemy course "The Complete Node.js Developer Course."
