@@ -1,6 +1,6 @@
 # Weather-App
 
-# How to run
+## How to use
 visit the app @ http://szaf-weather-app.herokuapp.com/
 
 1. On the index page, enter in a location in the search bar and click the search button.
